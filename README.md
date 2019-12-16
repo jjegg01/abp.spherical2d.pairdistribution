@@ -1,6 +1,8 @@
 Python module abp.spherical2d.pairdistribution
 ==============================================
 
+[![DOI](https://zenodo.org/badge/228355368.svg)](https://zenodo.org/badge/latestdoi/228355368)
+
 This folder contains supplementary software for the article
 
 *J. Jeggle, J. Stenhammar and R. Wittkowski,
