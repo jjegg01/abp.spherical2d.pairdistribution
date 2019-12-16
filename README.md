@@ -9,14 +9,15 @@ simulation results and analytic representation*
 
 Contents
 --------
-* `demo.py`: Demo code for the module `abp.spherical2d.pairdistribution`.
-See `python3 demo.py -h` for more information.
-* `doc/`: HTML documentation for the module `abp.spherical2d.pairdistribution`.
 * `abp/`: Python module for simplified access to the fit parameters of the
 Fourier coefficients described in the article as well as routines for
 reconstruction of the negative product of the pair-distribution function and the
 derivative of the interaction potential. See below for installation
 instructions.
+* `demo.py`: Demo code for the module `abp.spherical2d.pairdistribution`.
+See `python3 demo.py -h` for more information.
+* `doc/`: HTML documentation for the module `abp.spherical2d.pairdistribution`.
+* `LICENSE`: Licensing information for this software
 * `README.md`: This file.
 
 Installation

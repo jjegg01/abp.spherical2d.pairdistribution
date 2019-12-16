@@ -1,3 +1,12 @@
+#!/usb/bin/env python3
+
+"""Demo script for abp.spherical2d.pairdistribution module."""
+
+__author__ = "Julian Jeggle, Raphael Wittkowski"
+__copyright__ = "Copyright (C) 2019 Julian Jeggle, Raphael Wittkowski"
+__license__ = "MIT"
+__version__ = "1.0"
+
 import argparse
 
 import numpy as np

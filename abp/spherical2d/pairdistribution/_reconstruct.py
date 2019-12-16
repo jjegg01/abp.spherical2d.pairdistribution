@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+"""File containing functions for reconstruction of the pair distribution
+function."""
 
 import os.path
 import numpy as np
