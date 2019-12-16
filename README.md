@@ -7,7 +7,7 @@ This folder contains supplementary software for the article
 
 *J. Jeggle, J. Stenhammar and R. Wittkowski,
 Pair-distribution function of active Brownian spheres in two spatial dimensions:
-simulation results and analytic representation*
+simulation results and analytic representation, arXiv:1912.02965v1 (2019)*
 
 Contents
 --------
