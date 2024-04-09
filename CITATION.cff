@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+title: abp.spherical2d.pairdistribution
+authors:
+  - family-names: Jeggle
+    given-names: Julian
+    orcid: "https://orcid.org/0000-0001-7220-6081"
+  - family-names: Stenhammar
+    given-names: Joakim
+    orcid: "https://orcid.org/0000-0002-7543-5549"
+  - family-names: Wittkowski
+    given-names: Raphael
+    orcid: "https://orcid.org/0000-0003-4881-9173"
+version: 1.0.0
+date-released: "2019-12-16"
+license: MIT
+repository-code: https://github.com/jjegg01/abp.spherical2d.pairdistribution
+identifiers:
+  - description: This is the collection of archived snapshots of all versions of abp.spherical2d.pairdistribution
+    type: doi
+    value: 10.5281/zenodo.3577846
+  - description: This is the archived snapshot of version 1.0.0 of abp.spherical2d.pairdistribution
+    type: doi
+    value: 10.5281/zenodo.3577847
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Jeggle
+      given-names: Julian
+      orcid: "https://orcid.org/0000-0001-7220-6081"
+    - family-names: Stenhammar
+      given-names: Joakim
+      orcid: "https://orcid.org/0000-0002-7543-5549"
+    - family-names: Wittkowski
+      given-names: Raphael
+      orcid: "https://orcid.org/0000-0003-4881-9173"
+  title: "Pair-distribution function of active Brownian spheres in two spatial dimensions: simulation results and analytic representation"
+  journal: The Journal of Chemical Physics
+  volume: 152
+  issue: 19
+  year: 2020
+  identifiers:
+    - type: doi
+      value: 10.1063/1.5140725

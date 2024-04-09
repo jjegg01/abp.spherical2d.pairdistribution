@@ -2,12 +2,14 @@ Python module abp.spherical2d.pairdistribution
 ==============================================
 
 [![DOI](https://zenodo.org/badge/228355368.svg)](https://zenodo.org/badge/latestdoi/228355368)
+[![Funding provided by DFG WI 4170/3-1](https://img.shields.io/badge/DFG%20funded-WI%204170%2F3--1-blue)](https://www.dfg.de/foerderung/programme/einzelfoerderung/emmy_noether/index.html)
 
 This folder contains supplementary software for the article
 
 *J. Jeggle, J. Stenhammar and R. Wittkowski,
 Pair-distribution function of active Brownian spheres in two spatial dimensions:
-simulation results and analytic representation, arXiv:1912.02965v1 (2019)*
+simulation results and analytic representation, J. Chem. Phys. 152, 194903 (2020),
+[DOI: 10.1063/1.5140725](https://doi.org/10.1063/1.5140725)*
 
 Contents
 --------
